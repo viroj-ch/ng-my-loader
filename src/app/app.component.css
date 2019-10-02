@@ -1,0 +1,43 @@
+.tic-content {
+    min-height: calc(100vh - 365px);
+    padding-top: 30px;
+    width: 100vw;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 0px;
+    padding-left: 0px;
+    max-width: 1440px;
+}
+
+.em-u-text-align-center {
+    text-align: center !important; 
+}
+
+.em-c-loader__icon {
+    display: block;
+    width: 24px;
+    height: 24px;
+    margin: 1rem auto; 
+}
+
+.tic-loading {
+    padding: 100px;
+}
+
+.tic-loading-md {
+    width: 50px;
+    height: 50px;
+    margin: 100px;
+}
+
+.tic-loading-sm {
+    width: 25px;
+    height: 25px;
+    margin: 50px;
+}
+
+.tic-loading-lg {
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+}
